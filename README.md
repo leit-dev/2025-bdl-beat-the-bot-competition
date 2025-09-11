@@ -9,7 +9,7 @@ This repository contains an end-to-end Snowflake-based data engineering competit
 - `SCORING.md`: Detailed rubric and point allocations.
 
 ## Prerequisites
-- Snowflake account with permissions to create database/warehouse/schema.
+- Snowflake account with permissions to create database/warehouse/schema. A Snowflake Trail account can be easily created at https://signup.snowflake.com/
 - Python 3.9+ with `pip`.
 - Optional: `venv` for isolation.
 
