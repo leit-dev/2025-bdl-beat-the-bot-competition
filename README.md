@@ -67,6 +67,7 @@ streamlit run 02_Dashboard.py
 ## Notes
 - Provided data is small for demo. Teams may extend with synthetic data generators to stress-test.
 - Replace placeholder supplier-product mapping with a true mapping table if needed.
+- The entire project is just an example and if you wish to change any aspects of this to show of your Data Management and AI skills, please do so. Its your project to showcase :)
 
 ## Support
 Open issues or propose enhancements via pull requests.
